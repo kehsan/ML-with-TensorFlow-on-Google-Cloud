@@ -2,4 +2,4 @@
 
 - [course1:  How Google does Machine Learning Certificate](https://github.com/kehsan/ML-with-TensorFlow-on-Google-Cloud/blob/master/How%20Google%20Does%20Machine%20Learning.pdf)
 
-- [course2:  Launching into Machine Learning]()
+- [course2:  Launching into Machine Learning](https://github.com/kehsan/ML-with-TensorFlow-on-Google-Cloud/blob/master/Launching%20into%20Machine%20Learning.pdf)
